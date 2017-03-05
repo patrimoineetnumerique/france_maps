@@ -1,13 +1,3 @@
-$ mkdir ~/Hello-World
+# France maps
 
-# Crée un répertoire pour votre projet nommé "Hello-World" dans votre répertoire utilisateur local
-
-$ cd ~/Hello-World
-# Modifie le répertoire de travail en cours pour votre nouveau répertoire fraîchement créé
-
-$ git init
-# Installe les fichiers Git nécessaire
-# Initialise le répertoire vite Git dans /Users/you/Hello-World/.git/
-
-$ touch README
-# Crée un fichier nommé "README" dans votre répertoire local Hello-World
+Fichiers carto (kml, geojson) pour avoir des fonds de cartes historiques.
